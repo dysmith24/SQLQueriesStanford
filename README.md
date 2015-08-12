@@ -1,2 +1,4 @@
 # SQLQueriesStanford
-mysql 5.6 queries for stanford sql course
+These are the queries I constructed for the Stanford SQL course. 
+Use as a reference to get yourself unstuck!
+
